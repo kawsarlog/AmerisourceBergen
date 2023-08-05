@@ -6,7 +6,7 @@
 ![Webdriver-Manager Version](https://img.shields.io/badge/webdriver--manager-4.0.0-brightgreen)
 
 ## DescriptionThis
-Python script automates the extraction of product pricing details from the AmerisourceBergen 🌐 website https://abcorder.amerisourcebergen.com By inputting your ```username```, ```password```, and ```National Drug Code (NDC) codes``` 
+🛠️ Python 🐍 script automates the extraction of product pricing details from the AmerisourceBergen 🌐 website https://abcorder.amerisourcebergen.com By inputting your ```username```, ```password```, and ```National Drug Code (NDC) codes``` 
 and the 📜 script navigates the website and retrieves the 💰 Average Wholesale Price (AWP) and Acquisition Cost (Accq Cost) 📊 data.
 
 ### The input data format should be as follows:
